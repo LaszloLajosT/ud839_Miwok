@@ -30,5 +30,13 @@ dependencies {
     implementation 'androidx.fragment:fragment:1.2.4'
     debugImplementation 'androidx.fragment:fragment-testing:1.2.4'
     implementation 'com.android.support:design:29.0.0'
-    implementation "androidx.media:media:1.1.0"
+    implementation 'androidx.media:media:1.1.0'
+
+    implementation 'androidx.legacy:legacy-support-core-utils'
+    implementation 'com.google.android.material:material:1.1.0'
+
+    implementation 'androidx.viewpager2:viewpager2:1.0.0-beta04'
+    implementation 'androidx.fragment:fragment-ktx:1.2.0-alpha04'
+
+
 }
