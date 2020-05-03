@@ -15,13 +15,7 @@
  */
 package com.example.android.miwok;
 
-import android.content.Intent;
 import android.os.Bundle;
-
-import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.TextView;
-
 import com.google.android.material.tabs.TabLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
